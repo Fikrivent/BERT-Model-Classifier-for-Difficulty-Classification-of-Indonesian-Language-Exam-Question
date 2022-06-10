@@ -1,0 +1,18 @@
+{
+    "creators": [
+        {   
+            "affiliation": "Departemen Sistem Informasi Institut Teknologi Sepuluh Nopember",
+            "name": "Baharuddin, Fikri"
+        },
+        {   
+            "affiliation": "Departemen Sistem Informasi Institut Teknologi Sepuluh Nopember",
+            "name": "Tjahyanto, Aris"
+        }
+    ],    
+
+    "license": "Apache-2.0",
+
+    "title": "Pengembangan Model Pengklasifikasi TIngkat Kesulitan Soal Ujian Bahasa Indonesia Tingkat Sekolah Dasar(SD) Menggunakan Metode NLP IndoBERT, TFIDF, Count Vecotirzer, dan Word2Vec",
+
+    "keywords": ["Model Classifier", "Jaccard Similarity", "TFIDF", "IndoBERT", "Count Vectorizer", "Word2Vec", "Machine Learning Classification"]
+}
