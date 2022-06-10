@@ -4,3 +4,5 @@
 2. Folder TFIDF memuat seluruh sript dan dataset yang dibutuhkan pada tahap inisiasi pengembangan model serta evaluasi model. Di dalamnya telah dipisahkan antara penggunaan metode TFIDF murni dan penggunaan kombinasi TFIDF dengan metode perhitungan indek persamaan jaccard.
 3. Folder Word2Vec memuat seluruh sript dan dataset yang dibutuhkan pada tahap inisiasi pengembangan model serta evaluasi model. Di dalamnya telah dipisahkan antara penggunaan metode Word2Vec murni dan penggunaan kombinasi Word2Vec dengan metode perhitungan indek persamaan jaccard.
 4. Folder Count Vectorizer memuat seluruh sript dan dataset yang dibutuhkan pada tahap inisiasi pengembangan model serta evaluasi model. Di dalamnya telah dipisahkan antara penggunaan metode Count Vectorizer murni dan penggunaan kombinasi TFIDF dengan metode perhitungan indek persamaan jaccard.
+
+[![DOI](https://zenodo.org/badge/440188056.svg)](https://zenodo.org/badge/latestdoi/440188056)
